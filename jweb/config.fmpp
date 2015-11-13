@@ -1,1 +1,2 @@
-sourceDir=src
+sourceRoot: src
+outputRoot: out
